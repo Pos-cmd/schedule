@@ -121,16 +121,16 @@
           "price": 15
         }
       ]
-    }
-  },
-  "Samedi": {
-    "14:00": [
-      {
-        "id": 15,
-        "name": "Cours C",
-        "price": 15
-      }
-    ]
-  },
-  "Dimanche": {}
+    },
+    "Samedi": {
+      "14:00": [
+        {
+          "id": 15,
+          "name": "Cours C",
+          "price": 15
+        }
+      ]
+    },
+    "Dimanche": {}
+  }
 }
